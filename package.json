@@ -13,6 +13,8 @@
     "@maptiler/client": "^2.5.1",
     "cloudinary": "^1.41.3",
     "connect-flash": "^0.1.1",
+    "cookie": "^1.0.2",
+    "cookie-signature": "^1.2.2",
     "dotenv": "^8.6.0",
     "ejs": "^3.1.5",
     "ejs-mate": "^4.0.0",
