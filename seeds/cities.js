@@ -8999,4 +8999,13748 @@ module.exports = [
         rank: "1000",
         state: "Florida",
     },
-];
+    {
+        state: "Brazil",
+        city: "São Paulo 1",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 1",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 1",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 1",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 1",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 1",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 1",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 1",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 1",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 1",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 1",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 1",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 1",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 1",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 2",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 2",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 2",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 2",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 2",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 2",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 2",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 2",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 2",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 2",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 2",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 2",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 2",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 2",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 3",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 3",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 3",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 3",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 3",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 3",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 3",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 3",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 3",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 3",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 3",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 3",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 3",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 3",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 4",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 4",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 4",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 4",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 4",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 4",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 4",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 4",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 4",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 4",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 4",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 4",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 4",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 4",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 5",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 5",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 5",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 5",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 5",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 5",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 5",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 5",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 5",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 5",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 5",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 5",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 5",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 5",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 6",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 6",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 6",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 6",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 6",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 6",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 6",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 6",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 6",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 6",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 6",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 6",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 6",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 6",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 7",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 7",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 7",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 7",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 7",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 7",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 7",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 7",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 7",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 7",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 7",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 7",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 7",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 7",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 8",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 8",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 8",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 8",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 8",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 8",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 8",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 8",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 8",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 8",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 8",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 8",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 8",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 8",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 9",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 9",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 9",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 9",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 9",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 9",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 9",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 9",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 9",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 9",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 9",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 9",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 9",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 9",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 10",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 10",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 10",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 10",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 10",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 10",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 10",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 10",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 10",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 10",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 10",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 10",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 10",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 10",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 11",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 11",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 11",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 11",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 11",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 11",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 11",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 11",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 11",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 11",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 11",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 11",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 11",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 11",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 12",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 12",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 12",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 12",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 12",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 12",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 12",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 12",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 12",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 12",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 12",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 12",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 12",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 12",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 13",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 13",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 13",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 13",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 13",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 13",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 13",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 13",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 13",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 13",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 13",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 13",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 13",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 13",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 14",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 14",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 14",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 14",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 14",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 14",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 14",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 14",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 14",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 14",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 14",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 14",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 14",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 14",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 15",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 15",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 15",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 15",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 15",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 15",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 15",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 15",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 15",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 15",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 15",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 15",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 15",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 15",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 16",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 16",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 16",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 16",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 16",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 16",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 16",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 16",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 16",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 16",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 16",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 16",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 16",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 16",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 17",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 17",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 17",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 17",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 17",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 17",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 17",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 17",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 17",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 17",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    {
+        state: "Bolivia",
+        city: "La Paz 17",
+        latitude: -16.4897,
+        longitude: -68.1193
+    },
+    {
+        state: "Guyana",
+        city: "Georgetown 17",
+        latitude: 6.8013,
+        longitude: -58.1551
+    },
+    {
+        state: "Suriname",
+        city: "Paramaribo 17",
+        latitude: 5.852,
+        longitude: -55.2038
+    },
+    {
+        state: "French Guiana",
+        city: "Cayenne 17",
+        latitude: 4.9224,
+        longitude: -52.3135
+    },
+    {
+        state: "Brazil",
+        city: "São Paulo 18",
+        latitude: -23.5505,
+        longitude: -46.6333
+    },
+    {
+        state: "Brazil",
+        city: "Rio de Janeiro 18",
+        latitude: -22.9068,
+        longitude: -43.1729
+    },
+    {
+        state: "Argentina",
+        city: "Buenos Aires 18",
+        latitude: -34.6037,
+        longitude: -58.3816
+    },
+    {
+        state: "Colombia",
+        city: "Bogotá 18",
+        latitude: 4.711,
+        longitude: -74.0721
+    },
+    {
+        state: "Peru",
+        city: "Lima 18",
+        latitude: -12.0464,
+        longitude: -77.0428
+    },
+    {
+        state: "Chile",
+        city: "Santiago 18",
+        latitude: -33.4489,
+        longitude: -70.6693
+    },
+    {
+        state: "Venezuela",
+        city: "Caracas 18",
+        latitude: 10.4806,
+        longitude: -66.9036
+    },
+    {
+        state: "Ecuador",
+        city: "Quito 18",
+        latitude: -0.1807,
+        longitude: -78.4678
+    },
+    {
+        state: "Uruguay",
+        city: "Montevideo 18",
+        latitude: -34.9011,
+        longitude: -56.1645
+    },
+    {
+        state: "Paraguay",
+        city: "Asunción 18",
+        latitude: -25.2637,
+        longitude: -57.5759
+    },
+    { state: "Bolivia", city: "La Paz 18", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 18", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 18", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 18", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 19", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 19", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 19", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 19", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 19", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 19", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 19", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 19", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 19", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 19", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 19", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 19", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 19", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 19", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 20", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 20", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 20", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 20", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 20", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 20", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 20", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 20", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 20", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 20", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 20", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 20", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 20", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 20", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 21", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 21", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 21", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 21", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 21", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 21", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 21", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 21", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 21", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 21", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 21", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 21", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 21", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 21", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 22", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 22", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 22", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 22", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 22", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 22", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 22", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 22", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 22", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 22", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 22", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 22", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 22", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 22", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 23", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 23", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 23", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 23", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 23", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 23", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 23", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 23", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 23", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 23", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 23", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 23", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 23", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 23", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 24", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 24", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 24", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 24", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 24", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 24", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 24", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 24", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 24", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 24", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 24", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 24", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 24", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 24", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 25", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 25", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 25", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 25", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 25", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 25", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 25", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 25", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 25", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 25", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 25", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 25", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 25", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 25", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 26", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 26", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 26", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 26", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 26", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 26", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 26", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 26", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 26", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 26", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 26", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 26", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 26", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 26", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 27", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 27", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 27", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 27", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 27", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 27", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 27", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 27", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 27", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 27", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 27", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 27", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 27", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 27", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 28", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 28", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 28", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 28", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 28", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 28", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 28", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 28", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 28", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 28", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 28", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 28", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 28", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 28", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 29", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 29", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 29", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 29", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 29", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 29", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 29", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 29", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 29", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 29", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 29", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 29", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 29", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 29", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 30", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 30", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 30", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 30", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 30", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 30", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 30", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 30", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 30", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 30", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 30", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 30", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 30", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 30", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 31", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 31", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 31", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 31", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 31", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 31", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 31", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 31", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 31", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 31", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 31", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 31", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 31", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 31", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 32", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 32", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 32", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 32", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 32", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 32", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 32", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 32", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 32", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 32", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 32", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 32", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 32", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 32", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 33", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 33", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 33", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 33", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 33", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 33", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 33", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 33", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 33", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 33", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 33", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 33", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 33", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 33", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 34", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 34", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 34", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 34", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 34", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 34", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 34", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 34", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 34", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 34", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 34", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 34", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 34", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 34", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 35", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 35", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 35", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 35", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 35", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 35", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 35", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 35", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 35", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 35", latitude: -25.2637, longitude: -57.5759 },
+    { state: "Bolivia", city: "La Paz 35", latitude: -16.4897, longitude: -68.1193 },
+    { state: "Guyana", city: "Georgetown 35", latitude: 6.8013, longitude: -58.1551 },
+    { state: "Suriname", city: "Paramaribo 35", latitude: 5.852, longitude: -55.2038 },
+    { state: "French Guiana", city: "Cayenne 35", latitude: 4.9224, longitude: -52.3135 },
+    { state: "Brazil", city: "São Paulo 36", latitude: -23.5505, longitude: -46.6333 },
+    { state: "Brazil", city: "Rio de Janeiro 36", latitude: -22.9068, longitude: -43.1729 },
+    { state: "Argentina", city: "Buenos Aires 36", latitude: -34.6037, longitude: -58.3816 },
+    { state: "Colombia", city: "Bogotá 36", latitude: 4.711, longitude: -74.0721 },
+    { state: "Peru", city: "Lima 36", latitude: -12.0464, longitude: -77.0428 },
+    { state: "Chile", city: "Santiago 36", latitude: -33.4489, longitude: -70.6693 },
+    { state: "Venezuela", city: "Caracas 36", latitude: 10.4806, longitude: -66.9036 },
+    { state: "Ecuador", city: "Quito 36", latitude: -0.1807, longitude: -78.4678 },
+    { state: "Uruguay", city: "Montevideo 36", latitude: -34.9011, longitude: -56.1645 },
+    { state: "Paraguay", city: "Asunción 36", latitude: -25.2637, longitude: -57.5759 },
+
+    {
+        state: "Nigeria",
+        city: "Lagos 1",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 1",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 1",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 1",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 1",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 1",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 1",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 1",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 1",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 1",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 1",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 1",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 1",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 1",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 2",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 2",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 2",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 2",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 2",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 2",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 2",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 2",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 2",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 2",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 2",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 2",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 2",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 2",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 3",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 3",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 3",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 3",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 3",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 3",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 3",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 3",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 3",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 3",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 3",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 3",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 3",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 3",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 4",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 4",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 4",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 4",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 4",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 4",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 4",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 4",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 4",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 4",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 4",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 4",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 4",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 4",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 5",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 5",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 5",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 5",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 5",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 5",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 5",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 5",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 5",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 5",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 5",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 5",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 5",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 5",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 6",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 6",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 6",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 6",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 6",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 6",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 6",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 6",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 6",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 6",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 6",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 6",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 6",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 6",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 7",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 7",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 7",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 7",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 7",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 7",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 7",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 7",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 7",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 7",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 7",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 7",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 7",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 7",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 8",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 8",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 8",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 8",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 8",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 8",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 8",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 8",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 8",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 8",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 8",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 8",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 8",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 8",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 9",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 9",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 9",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 9",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 9",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 9",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 9",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 9",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 9",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 9",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 9",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 9",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 9",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 9",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 10",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 10",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 10",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 10",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 10",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 10",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 10",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 10",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 10",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 10",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 10",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 10",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 10",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 10",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 11",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 11",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 11",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 11",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 11",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 11",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 11",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 11",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 11",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 11",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 11",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 11",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 11",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 11",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 12",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 12",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 12",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 12",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 12",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 12",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 12",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 12",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 12",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 12",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 12",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 12",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 12",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 12",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 13",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 13",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 13",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 13",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 13",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 13",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 13",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 13",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 13",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 13",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 13",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 13",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 13",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 13",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 14",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 14",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 14",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 14",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 14",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 14",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 14",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 14",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 14",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 14",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 14",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 14",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 14",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 14",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 15",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 15",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 15",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 15",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 15",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 15",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 15",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 15",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 15",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 15",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 15",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 15",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 15",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 15",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 16",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 16",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 16",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 16",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 16",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 16",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 16",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 16",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 16",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 16",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 16",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 16",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 16",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 16",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 17",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 17",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 17",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 17",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 17",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 17",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 17",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 17",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 17",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 17",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 17",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 17",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 17",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 17",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 18",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 18",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 18",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 18",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 18",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 18",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 18",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 18",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 18",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 18",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 18",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 18",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 18",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 18",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 19",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 19",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 19",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 19",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 19",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 19",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 19",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 19",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 19",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 19",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 19",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 19",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 19",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 19",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 20",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 20",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 20",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 20",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 20",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 20",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 20",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 20",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 20",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 20",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 20",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 20",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 20",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 20",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 21",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 21",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 21",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 21",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 21",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 21",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 21",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 21",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 21",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 21",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 21",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 21",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 21",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 21",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 22",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 22",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 22",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 22",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 22",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 22",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 22",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 22",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 22",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 22",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 22",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 22",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 22",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 22",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 23",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 23",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 23",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 23",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 23",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 23",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 23",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 23",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 23",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 23",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 23",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 23",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 23",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 23",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 24",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 24",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 24",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 24",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 24",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 24",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 24",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 24",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 24",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 24",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 24",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 24",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 24",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 24",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 25",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 25",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 25",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 25",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 25",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 25",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 25",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 25",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 25",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 25",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 25",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 25",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 25",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 25",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 26",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 26",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 26",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 26",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 26",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 26",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 26",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 26",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 26",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 26",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 26",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 26",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 26",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 26",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 27",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 27",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 27",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 27",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 27",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 27",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 27",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 27",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 27",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 27",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 27",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 27",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 27",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 27",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 28",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 28",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 28",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 28",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 28",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 28",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 28",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 28",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 28",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 28",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 28",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 28",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 28",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 28",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 29",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 29",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 29",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 29",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 29",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 29",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 29",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 29",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 29",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 29",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 29",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 29",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 29",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 29",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 30",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 30",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 30",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 30",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 30",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 30",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 30",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 30",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 30",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 30",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 30",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 30",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 30",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 30",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 31",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 31",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 31",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 31",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 31",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 31",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 31",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 31",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 31",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 31",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 31",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 31",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 31",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 31",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 32",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 32",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 32",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 32",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 32",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 32",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 32",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 32",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 32",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 32",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 32",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 32",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 32",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 32",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 33",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 33",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 33",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 33",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 33",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 33",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 33",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 33",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 33",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 33",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 33",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 33",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 33",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 33",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 34",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 34",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 34",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 34",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 34",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 34",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 34",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 34",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 34",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 34",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 34",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 34",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 34",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 34",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 35",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 35",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 35",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 35",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 35",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 35",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 35",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 35",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 35",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 35",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+    {
+        state: "Ivory Coast",
+        city: "Abidjan 35",
+        latitude: 5.36,
+        longitude: -4.0083
+    },
+    {
+        state: "Senegal",
+        city: "Dakar 35",
+        latitude: 14.7167,
+        longitude: -17.4677
+    },
+    {
+        state: "Angola",
+        city: "Luanda 35",
+        latitude: -8.8383,
+        longitude: 13.2344
+    },
+    {
+        state: "Zimbabwe",
+        city: "Harare 35",
+        latitude: -17.8292,
+        longitude: 31.0522
+    },
+    {
+        state: "Nigeria",
+        city: "Lagos 36",
+        latitude: 6.5244,
+        longitude: 3.3792
+    },
+    {
+        state: "Egypt",
+        city: "Cairo 36",
+        latitude: 30.0444,
+        longitude: 31.2357
+    },
+    {
+        state: "South Africa",
+        city: "Johannesburg 36",
+        latitude: -26.2041,
+        longitude: 28.0473
+    },
+    {
+        state: "Kenya",
+        city: "Nairobi 36",
+        latitude: -1.2921,
+        longitude: 36.8219
+    },
+    {
+        state: "Ethiopia",
+        city: "Addis Ababa 36",
+        latitude: 9.03,
+        longitude: 38.74
+    },
+    {
+        state: "Morocco",
+        city: "Casablanca 36",
+        latitude: 33.5731,
+        longitude: -7.5898
+    },
+    {
+        state: "Algeria",
+        city: "Algiers 36",
+        latitude: 36.7538,
+        longitude: 3.0588
+    },
+    {
+        state: "Ghana",
+        city: "Accra 36",
+        latitude: 5.6037,
+        longitude: -0.187
+    },
+    {
+        state: "Uganda",
+        city: "Kampala 36",
+        latitude: 0.3476,
+        longitude: 32.5825
+    },
+    {
+        state: "Tanzania",
+        city: "Dar es Salaam 36",
+        latitude: -6.7924,
+        longitude: 39.2083
+    },
+
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 1",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 1",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 1",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 1",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 1",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 1",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 1",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 1",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 1",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 1",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 1",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 1",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 1",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 1",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 2",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 2",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 2",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 2",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 2",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 2",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 2",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 2",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 2",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 2",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 2",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 2",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 2",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 2",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 3",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 3",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 3",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 3",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 3",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 3",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 3",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 3",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 3",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 3",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 3",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 3",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 3",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 3",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 4",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 4",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 4",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 4",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 4",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 4",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 4",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 4",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 4",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 4",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 4",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 4",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 4",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 4",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 5",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 5",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 5",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 5",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 5",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 5",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 5",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 5",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 5",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 5",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 5",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 5",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 5",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 5",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 6",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 6",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 6",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 6",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 6",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 6",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 6",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 6",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 6",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 6",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 6",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 6",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 6",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 6",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 7",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 7",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 7",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 7",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 7",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 7",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 7",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 7",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 7",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 7",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 7",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 7",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 7",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 7",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 8",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 8",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 8",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 8",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 8",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 8",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 8",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 8",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 8",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 8",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 8",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 8",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 8",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 8",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 9",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 9",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 9",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 9",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 9",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 9",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 9",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 9",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 9",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 9",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 9",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 9",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 9",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 9",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 10",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 10",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 10",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 10",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 10",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 10",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 10",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 10",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 10",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 10",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 10",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 10",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 10",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 10",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 11",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 11",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 11",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 11",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 11",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 11",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 11",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 11",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 11",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 11",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 11",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 11",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 11",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 11",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 12",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 12",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 12",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 12",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 12",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 12",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 12",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 12",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 12",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 12",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 12",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 12",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 12",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 12",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 13",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 13",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 13",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 13",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 13",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 13",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 13",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 13",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 13",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 13",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 13",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 13",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 13",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 13",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 14",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 14",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 14",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 14",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 14",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 14",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 14",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 14",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 14",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 14",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 14",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 14",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 14",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 14",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 15",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 15",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 15",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 15",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 15",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 15",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 15",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 15",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 15",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 15",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 15",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 15",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 15",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 15",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 16",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 16",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 16",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 16",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 16",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 16",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 16",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 16",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 16",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 16",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 16",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 16",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 16",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 16",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 17",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 17",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 17",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 17",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 17",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 17",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 17",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 17",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 17",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 17",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 17",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 17",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 17",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 17",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 18",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 18",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 18",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 18",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 18",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 18",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 18",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 18",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 18",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 18",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 18",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 18",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 18",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 18",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 19",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 19",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 19",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 19",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 19",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 19",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 19",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 19",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 19",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 19",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 19",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 19",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 19",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 19",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 20",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 20",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 20",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 20",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 20",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 20",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 20",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 20",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 20",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 20",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 20",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 20",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 20",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 20",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 21",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 21",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 21",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 21",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 21",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 21",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 21",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 21",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 21",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 21",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 21",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 21",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 21",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 21",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 22",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 22",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 22",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 22",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 22",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 22",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 22",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 22",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 22",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 22",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 22",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 22",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 22",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 22",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 23",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 23",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 23",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 23",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 23",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 23",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 23",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 23",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 23",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 23",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 23",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 23",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 23",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 23",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 24",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 24",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 24",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 24",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 24",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 24",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 24",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 24",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 24",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 24",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 24",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 24",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 24",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 24",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 25",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 25",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 25",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 25",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 25",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 25",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 25",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 25",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 25",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 25",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 25",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 25",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 25",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 25",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 26",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 26",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 26",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 26",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 26",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 26",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 26",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 26",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 26",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 26",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 26",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 26",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 26",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 26",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 27",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 27",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 27",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 27",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 27",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 27",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 27",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 27",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 27",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 27",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 27",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 27",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 27",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 27",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 28",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 28",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 28",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 28",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 28",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 28",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 28",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 28",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 28",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 28",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 28",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 28",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 28",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 28",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 29",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 29",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 29",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 29",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 29",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 29",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 29",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 29",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 29",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 29",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 29",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 29",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 29",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 29",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 30",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 30",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 30",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 30",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 30",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 30",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 30",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 30",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 30",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 30",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 30",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 30",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 30",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 30",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 31",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 31",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 31",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 31",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 31",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 31",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 31",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 31",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 31",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 31",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 31",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 31",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 31",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 31",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 32",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 32",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 32",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 32",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 32",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 32",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 32",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 32",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 32",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 32",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 32",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 32",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 32",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 32",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 33",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 33",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 33",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 33",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 33",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 33",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 33",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 33",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 33",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 33",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 33",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 33",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 33",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 33",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 34",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 34",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 34",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 34",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 34",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 34",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 34",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 34",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 34",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 34",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 34",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 34",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 34",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 34",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 35",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 35",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 35",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 35",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 35",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 35",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 35",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 35",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 35",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 35",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+    {
+        state: "Krasnoyarsk Krai",
+        city: "Krasnoyarsk 35",
+        latitude: 56.0153,
+        longitude: 92.8932
+    },
+    {
+        state: "Perm Krai",
+        city: "Perm 35",
+        latitude: 58.0105,
+        longitude: 56.2294
+    },
+    {
+        state: "Voronezh Oblast",
+        city: "Voronezh 35",
+        latitude: 51.6755,
+        longitude: 39.2089
+    },
+    {
+        state: "Volgograd Oblast",
+        city: "Volgograd 35",
+        latitude: 48.708,
+        longitude: 44.5133
+    },
+    {
+        state: "Moscow Oblast",
+        city: "Moscow 36",
+        latitude: 55.7558,
+        longitude: 37.6173
+    },
+    {
+        state: "Saint Petersburg",
+        city: "Saint Petersburg 36",
+        latitude: 59.9311,
+        longitude: 30.3609
+    },
+    {
+        state: "Novosibirsk Oblast",
+        city: "Novosibirsk 36",
+        latitude: 55.0084,
+        longitude: 82.9357
+    },
+    {
+        state: "Sverdlovsk Oblast",
+        city: "Yekaterinburg 36",
+        latitude: 56.8389,
+        longitude: 60.6057
+    },
+    {
+        state: "Nizhny Novgorod Oblast",
+        city: "Nizhny Novgorod 36",
+        latitude: 56.2965,
+        longitude: 43.9361
+    },
+    {
+        state: "Tatarstan",
+        city: "Kazan 36",
+        latitude: 55.7961,
+        longitude: 49.1064
+    },
+    {
+        state: "Chelyabinsk Oblast",
+        city: "Chelyabinsk 36",
+        latitude: 55.1644,
+        longitude: 61.4368
+    },
+    {
+        state: "Omsk Oblast",
+        city: "Omsk 36",
+        latitude: 54.9885,
+        longitude: 73.3242
+    },
+    {
+        state: "Rostov Oblast",
+        city: "Rostov-on-Don 36",
+        latitude: 47.2357,
+        longitude: 39.7015
+    },
+    {
+        state: "Bashkortostan",
+        city: "Ufa 36",
+        latitude: 54.7388,
+        longitude: 55.9721
+    },
+
+    {
+        state: "France",
+        city: "Paris",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 2",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 2",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 2",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 2",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 2",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 2",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 2",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 2",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 2",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 2",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 3",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 3",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 3",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 3",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 3",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 3",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 3",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 3",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 3",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 3",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 4",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 4",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 4",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 4",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 4",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 4",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 4",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 4",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 4",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 4",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 5",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 5",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 5",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 5",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 5",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 5",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 5",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 5",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 5",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 5",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 6",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 6",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 6",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 6",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 6",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 6",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 6",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 6",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 6",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 6",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 7",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 7",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 7",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 7",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 7",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 7",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 7",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 7",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 7",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 7",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 8",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 8",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 8",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 8",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 8",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 8",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 8",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 8",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 8",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 8",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 9",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 9",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 9",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 9",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 9",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 9",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 9",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 9",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 9",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 9",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 10",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 10",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 10",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 10",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 10",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 10",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 10",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 10",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 10",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 10",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 11",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 11",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 11",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 11",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 11",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 11",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 11",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 11",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 11",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 11",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 12",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 12",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 12",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 12",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 12",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 12",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 12",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 12",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 12",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 12",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 13",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 13",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 13",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 13",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 13",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 13",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 13",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 13",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 13",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 13",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 14",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 14",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 14",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 14",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 14",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 14",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 14",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 14",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 14",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 14",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 15",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 15",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 15",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 15",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 15",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 15",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 15",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 15",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 15",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 15",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 16",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 16",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 16",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 16",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 16",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 16",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 16",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 16",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 16",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 16",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 17",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 17",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 17",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 17",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 17",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 17",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 17",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 17",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 17",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 17",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 18",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 18",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 18",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 18",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 18",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 18",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 18",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 18",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 18",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 18",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 19",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 19",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 19",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 19",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 19",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 19",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 19",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 19",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 19",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 19",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 20",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 20",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 20",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 20",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 20",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 20",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 20",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 20",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 20",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 20",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 21",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 21",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 21",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 21",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 21",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 21",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 21",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 21",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 21",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 21",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 22",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 22",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 22",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 22",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 22",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 22",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 22",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 22",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 22",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 22",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 23",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 23",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 23",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 23",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 23",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 23",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 23",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 23",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 23",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 23",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 24",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 24",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 24",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 24",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 24",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 24",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 24",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 24",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 24",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 24",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 25",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 25",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 25",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 25",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 25",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 25",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 25",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 25",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 25",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 25",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 26",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 26",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 26",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 26",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 26",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 26",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 26",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 26",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 26",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 26",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 27",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 27",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 27",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 27",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 27",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 27",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 27",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 27",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 27",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 27",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 28",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 28",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 28",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 28",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 28",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 28",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 28",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 28",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 28",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 28",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 29",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 29",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 29",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 29",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 29",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 29",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 29",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 29",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 29",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 29",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 30",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 30",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 30",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 30",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 30",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 30",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 30",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 30",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 30",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 30",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 31",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 31",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 31",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 31",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 31",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 31",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 31",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 31",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 31",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 31",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 32",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 32",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 32",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 32",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 32",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 32",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 32",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 32",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 32",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 32",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 33",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 33",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 33",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 33",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 33",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 33",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 33",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 33",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 33",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 33",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 34",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 34",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 34",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 34",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 34",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 34",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 34",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 34",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 34",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 34",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 35",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 35",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 35",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 35",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 35",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 35",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 35",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 35",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 35",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 35",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 36",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 36",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 36",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 36",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 36",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 36",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 36",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 36",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 36",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 36",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 37",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 37",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 37",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 37",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 37",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 37",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 37",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 37",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 37",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 37",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 38",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 38",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 38",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 38",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 38",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 38",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 38",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 38",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 38",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 38",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 39",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 39",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 39",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 39",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 39",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 39",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 39",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 39",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 39",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 39",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 40",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 40",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 40",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 40",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 40",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 40",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 40",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 40",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 40",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 40",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 41",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 41",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 41",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 41",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 41",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 41",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 41",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 41",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 41",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 41",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 42",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 42",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 42",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 42",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 42",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 42",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 42",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 42",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 42",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 42",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 43",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 43",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 43",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 43",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 43",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 43",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 43",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 43",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 43",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 43",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 44",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 44",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 44",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 44",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 44",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 44",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 44",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 44",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 44",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 44",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 45",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 45",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 45",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 45",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 45",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 45",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 45",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 45",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 45",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 45",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 46",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 46",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 46",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 46",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 46",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 46",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 46",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 46",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 46",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 46",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 47",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 47",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 47",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 47",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 47",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 47",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 47",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 47",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 47",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 47",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 48",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 48",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 48",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 48",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 48",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 48",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 48",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 48",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 48",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 48",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 49",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 49",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 49",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 49",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 49",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 49",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 49",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 49",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 49",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 49",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+    {
+        state: "France",
+        city: "Paris 50",
+        latitude: 48.8566,
+        longitude: 2.3522
+    },
+    {
+        state: "Germany",
+        city: "Berlin 50",
+        latitude: 52.52,
+        longitude: 13.405
+    },
+    {
+        state: "Spain",
+        city: "Madrid 50",
+        latitude: 40.4168,
+        longitude: -3.7038
+    },
+    {
+        state: "Italy",
+        city: "Rome 50",
+        latitude: 41.9028,
+        longitude: 12.4964
+    },
+    {
+        state: "United Kingdom",
+        city: "London 50",
+        latitude: 51.5074,
+        longitude: -0.1278
+    },
+    {
+        state: "Netherlands",
+        city: "Amsterdam 50",
+        latitude: 52.3676,
+        longitude: 4.9041
+    },
+    {
+        state: "Belgium",
+        city: "Brussels 50",
+        latitude: 50.8503,
+        longitude: 4.3517
+    },
+    {
+        state: "Austria",
+        city: "Vienna 50",
+        latitude: 48.210033,
+        longitude: 16.373819
+    },
+    {
+        state: "Sweden",
+        city: "Stockholm 50",
+        latitude: 59.3293,
+        longitude: 18.0686
+    },
+    {
+        state: "Norway",
+        city: "Oslo 50",
+        latitude: 59.9139,
+        longitude: 10.7522
+    },
+
+    {
+        state: "New South Wales",
+        city: "Sydney",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 2",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 2",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 2",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 2",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 2",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 2",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 2",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 2",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 2",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 2",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 3",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 3",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 3",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 3",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 3",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 3",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 3",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 3",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 3",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 3",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 4",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 4",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 4",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 4",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 4",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 4",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 4",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 4",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 4",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 4",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 5",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 5",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 5",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 5",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 5",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 5",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 5",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 5",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 5",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 5",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 6",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 6",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 6",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 6",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 6",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 6",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 6",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 6",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 6",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 6",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 7",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 7",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 7",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 7",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 7",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 7",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 7",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 7",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 7",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 7",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 8",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 8",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 8",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 8",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 8",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 8",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 8",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 8",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 8",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 8",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 9",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 9",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 9",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 9",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 9",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 9",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 9",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 9",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 9",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 9",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 10",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 10",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 10",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 10",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 10",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 10",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 10",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 10",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 10",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 10",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 11",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 11",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 11",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 11",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 11",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 11",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 11",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 11",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 11",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 11",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 12",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 12",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 12",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 12",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 12",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 12",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 12",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 12",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 12",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 12",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 13",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 13",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 13",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 13",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 13",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 13",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 13",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 13",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 13",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 13",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 14",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 14",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 14",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 14",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 14",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 14",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 14",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 14",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 14",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 14",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 15",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 15",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 15",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 15",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 15",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 15",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 15",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 15",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 15",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 15",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 16",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 16",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 16",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 16",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 16",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 16",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 16",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 16",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 16",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 16",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 17",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 17",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 17",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 17",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 17",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 17",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 17",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 17",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 17",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 17",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 18",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 18",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 18",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 18",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 18",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 18",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 18",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 18",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 18",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 18",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 19",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 19",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 19",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 19",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 19",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 19",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 19",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 19",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 19",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 19",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 20",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 20",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 20",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 20",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 20",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 20",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 20",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 20",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 20",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 20",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 21",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 21",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 21",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 21",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 21",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 21",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 21",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 21",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 21",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 21",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 22",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 22",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 22",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 22",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 22",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 22",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 22",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 22",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 22",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 22",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 23",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 23",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 23",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 23",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 23",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 23",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 23",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 23",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 23",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 23",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 24",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 24",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 24",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 24",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 24",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 24",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 24",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 24",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 24",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 24",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 25",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 25",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 25",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 25",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 25",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 25",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 25",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 25",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 25",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 25",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 26",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 26",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 26",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 26",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 26",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 26",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 26",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 26",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 26",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 26",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 27",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 27",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 27",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 27",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 27",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 27",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 27",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 27",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 27",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 27",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 28",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 28",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 28",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 28",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 28",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 28",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 28",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 28",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 28",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 28",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 29",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 29",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 29",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 29",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 29",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 29",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 29",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 29",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 29",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 29",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 30",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 30",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 30",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 30",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 30",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 30",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 30",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 30",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 30",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 30",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 31",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 31",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 31",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 31",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 31",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 31",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 31",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 31",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 31",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 31",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 32",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 32",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 32",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 32",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 32",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 32",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 32",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 32",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 32",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 32",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 33",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 33",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 33",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 33",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 33",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 33",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 33",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 33",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 33",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 33",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 34",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 34",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 34",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 34",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 34",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 34",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 34",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 34",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 34",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 34",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 35",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 35",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 35",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 35",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 35",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 35",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 35",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 35",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 35",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 35",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 36",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 36",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 36",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 36",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 36",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 36",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 36",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 36",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 36",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 36",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 37",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 37",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 37",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 37",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 37",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 37",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 37",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 37",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 37",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 37",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 38",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 38",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 38",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 38",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 38",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 38",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 38",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 38",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 38",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 38",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 39",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 39",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 39",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 39",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 39",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 39",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 39",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 39",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 39",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 39",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 40",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 40",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 40",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 40",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 40",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 40",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 40",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 40",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 40",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 40",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 41",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 41",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 41",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 41",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 41",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 41",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 41",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 41",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 41",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 41",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 42",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 42",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 42",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 42",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 42",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 42",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 42",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 42",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 42",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 42",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 43",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 43",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 43",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 43",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 43",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 43",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 43",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 43",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 43",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 43",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 44",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 44",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 44",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 44",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 44",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 44",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 44",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 44",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 44",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 44",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 45",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 45",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 45",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 45",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 45",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 45",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 45",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 45",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 45",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 45",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 46",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 46",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 46",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 46",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 46",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 46",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 46",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 46",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 46",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 46",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 47",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 47",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 47",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 47",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 47",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 47",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 47",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 47",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 47",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 47",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 48",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 48",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 48",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 48",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 48",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 48",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 48",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 48",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 48",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 48",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 49",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 49",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 49",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 49",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 49",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 49",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 49",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 49",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 49",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 49",
+        latitude: -28.0167,
+        longitude: 153.4
+    },
+    {
+        state: "New South Wales",
+        city: "Sydney 50",
+        latitude: -33.8688,
+        longitude: 151.2093
+    },
+    {
+        state: "Victoria",
+        city: "Melbourne 50",
+        latitude: -37.8136,
+        longitude: 144.9631
+    },
+    {
+        state: "Queensland",
+        city: "Brisbane 50",
+        latitude: -27.4698,
+        longitude: 153.0251
+    },
+    {
+        state: "Western Australia",
+        city: "Perth 50",
+        latitude: -31.9505,
+        longitude: 115.8605
+    },
+    {
+        state: "South Australia",
+        city: "Adelaide 50",
+        latitude: -34.9285,
+        longitude: 138.6007
+    },
+    {
+        state: "Tasmania",
+        city: "Hobart 50",
+        latitude: -42.8821,
+        longitude: 147.3272
+    },
+    {
+        state: "Australian Capital Territory",
+        city: "Canberra 50",
+        latitude: -35.2809,
+        longitude: 149.13
+    },
+    {
+        state: "Northern Territory",
+        city: "Darwin 50",
+        latitude: -12.4634,
+        longitude: 130.8456
+    },
+    {
+        state: "New South Wales",
+        city: "Newcastle 50",
+        latitude: -32.9283,
+        longitude: 151.7817
+    },
+    {
+        state: "Queensland",
+        city: "Gold Coast 50",
+        latitude: -28.0167,
+        longitude: 153.4
+    }
+]
