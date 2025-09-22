@@ -1,26 +1,58 @@
 <% layout('layouts/boilerplate')%>
-<h1>Register</h1>
-<form action="/register" method="POST" class="validated-form" novalidate>
-    <div class="mb-3">
-        <label class="form-label" for="username">Username</label>
-        <input class="form-control" type="text" id="username" name="username" required>
-        <div class="valid-feedback">
-            Looks good!
+    <link rel="stylesheet" href="/stylesheets/register.css">
+    <div class="register-card row g-0 w-100">
+        <!-- Left Image Panel -->
+        <div class="col-md-6 d-none d-md-flex flex-column register-image">
+            <div class="mt-auto">
+                <h4>Capturing Moments,<br>Creating Memories</h4>
+            </div>
+        </div>
+
+        <!-- Right Form Panel -->
+        <div class="col-md-6 col-12 register-form-panel d-flex flex-column justify-content-center">
+            <h2 class="mb-2 fw-bold text-gradient">Create an account</h2>
+            <p class="mb-4 text-muted">
+                Already have an account?
+                <a href="/login" class="text-decoration-underline text-light fw-semibold">Log in</a>
+            </p>
+
+            <!-- Register Form -->
+            <form action="/register" method="POST" class="validated-form needs-validation" novalidate>
+                <!-- Username -->
+                <div class="mb-3">
+                    <label class="form-label" for="username">Username</label>
+                    <input class="form-control" type="text" id="username" name="username" required
+                        placeholder="Enter your username">
+                    <div class="invalid-feedback">Please enter a valid username.</div>
+                </div>
+
+                <!-- Email -->
+                <div class="mb-3">
+                    <label class="form-label" for="email">Email</label>
+                    <input class="form-control" type="email" id="email" name="email" required
+                        placeholder="Enter your email">
+                    <div class="invalid-feedback">Please provide a valid email.</div>
+                </div>
+
+                <!-- Password -->
+                <div class="mb-3">
+                    <label class="form-label" for="password">Password</label>
+                    <input class="form-control" type="password" id="password" name="password" required
+                        placeholder="Enter your password">
+                    <div class="invalid-feedback">Password is required.</div>
+                </div>
+
+                <!-- Terms & Conditions -->
+                <div class="form-check mb-4">
+                    <input class="form-check-input" type="checkbox" id="terms" required>
+                    <label class="form-check-label" for="terms">
+                        I agree to the <a href="#" class="text-decoration-underline text-light">Terms & Conditions</a>
+                    </label>
+                    <div class="invalid-feedback">You must agree before submitting.</div>
+                </div>
+
+                <!-- Submit Button -->
+                <button class="btn btn-primary w-100 shadow-lg" type="submit">✨ Create account</button>
+            </form>
         </div>
     </div>
-    <div class="mb-3">
-        <label class="form-label" for="email">Email</label>
-        <input class="form-control" type="email" id="email" name="email" required>
-        <div class="valid-feedback">
-            Looks good!
-        </div>
-    </div>
-    <div class="mb-3">
-        <label class="form-label" for="password">Password</label>
-        <input class="form-control" type="password" id="password" name="password" required>
-        <div class="valid-feedback">
-            Looks good!
-        </div>
-    </div>
-    <button class="btn btn-success">Register</button>
-</form>
