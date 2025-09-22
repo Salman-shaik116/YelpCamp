@@ -1,0 +1,129 @@
+/* Page setup */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(135deg, #1e1b29, #2c253a);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+/* Navbar at top */
+.navbar {
+    position: sticky;
+    /* stays at top */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* Content area */
+main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    /* top and bottom breathing space */
+}
+
+/* Register Card */
+.register-card {
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    overflow: hidden;
+    max-width: 950px;
+    width: 100%;
+    background: #1f1b29;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+
+}
+
+/* Left Image */
+.register-image {
+    background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80') center center/cover no-repeat;
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
+    padding: 20px;
+    color: #fff;
+    position: relative;
+}
+
+.register-image::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent 50%);
+}
+
+.register-image h4 {
+    position: relative;
+    z-index: 1;
+    font-weight: 500;
+}
+
+/* Right Form */
+.register-form-panel {
+    flex: 1;
+    padding: 40px;
+    background: #231f2e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Heading */
+.register-form-panel h2 {
+    font-weight: bold;
+    font-size: 1.8rem;
+    background: linear-gradient(135deg, #a084e8, #7c5fe6);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Inputs */
+.register-form-panel .form-control {
+    background: #2d253a;
+    border: 1px solid #3a3350;
+    color: #fff;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.register-form-panel .form-control:focus {
+    border-color: #a084e8;
+    box-shadow: 0 0 6px rgba(160, 132, 232, 0.6);
+}
+
+/* Button */
+.register-form-panel .btn-primary {
+    background: linear-gradient(135deg, #a084e8, #7c5fe6);
+    border: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding: 14px 0;
+    border-radius: 10px;
+    margin-top: 12px;
+    transition: all 0.3s ease;
+}
+
+.register-form-panel .btn-primary:hover {
+    background: linear-gradient(135deg, #8e6be8, #5c47d9);
+    box-shadow: 0 6px 20px rgba(160, 132, 232, 0.4);
+    transform: translateY(-2px);
+}
+
+/* Footer */
+footer {
+    background: #181520;
+    text-align: center;
+    color: #aaa;
+    padding: 15px;
+    font-size: 0.9rem;
+    margin-top: auto;
+}
