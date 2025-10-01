@@ -22,25 +22,21 @@ map.on('load', function () {
         source: 'campgrounds',
         filter: ['has', 'point_count'],
         paint: {
-            // Use step expressions (https://docs.maptiler.com/gl-style-specification/expressions/#step)
-            // with three steps to implement three types of circles:
             'circle-color': [
                 'step',
                 ['get', 'point_count'],
-                '#51bbd6',   // 0-9: blue
-                10, '#f1f075',   // 10-29: yellow
-                30, '#f28cb1',   // 30-89: pink
-                90, '#ff7f50',   // 90-179: coral
-                180, '#8e44ad'   // 180+: vibrant purple
+                '#a0d8f1',
+                20, '#51a8dd',
+                60, '#0a2e4dff',
+                100, '#00ffc8ff'
             ],
             'circle-radius': [
                 'step',
                 ['get', 'point_count'],
-                15,  // 0-9
-                10, 20,  // 10-29
-                30, 25,  // 30-89
-                90, 30,  // 90-179
-                180, 35  // 180+
+                18,
+                20, 24,
+                60, 30,
+                100, 36
             ]
         }
     });
