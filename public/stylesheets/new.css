@@ -1,0 +1,147 @@
+/* Global */
+body {
+    background: #0f0d22;
+    /* single solid color to match edit */
+    color: #f5f5ff;
+    min-height: 100vh;
+}
+
+/* Wrapper */
+.new-wrapper {
+    min-height: calc(100vh - 120px);
+    display: flex;
+    align-items: center;
+}
+
+/* Card */
+.new-card {
+    background: #1c1831;
+    border-radius: 26px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow:
+        0 12px 24px rgba(0, 0, 0, 0.35),
+        0 24px 60px rgba(0, 0, 0, 0.35);
+}
+
+/* Heading */
+.new-title {
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0.04em;
+}
+
+.new-subtitle {
+    font-size: 0.96rem;
+}
+
+/* Form */
+.new-form .form-label {
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.new-form .form-control,
+.new-form .form-select {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: #f4f4ff;
+}
+
+.new-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.new-form .form-control:focus,
+.new-form .form-select:focus {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: #8266ff;
+    box-shadow: 0 0 0 0.25rem rgba(130, 102, 255, 0.15);
+    color: #ffffff;
+}
+
+.new-form .form-text,
+.new-form .form-check-label {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+/* Buttons */
+.new-form .btn-primary {
+    background: linear-gradient(135deg, #8266ff 0%, #6743ff 100%);
+    border: none;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.new-form .btn-primary:hover {
+    background: linear-gradient(135deg, #8d73ff 0%, #6f4bff 100%);
+    box-shadow: 0 10px 25px rgba(130, 102, 255, 0.35);
+}
+
+/* Fancy file button */
+.fancy-file-btn {
+    background: linear-gradient(135deg, #8266ff 0%, #6743ff 100%);
+    color: #fff;
+    border: 0;
+    border-radius: 14px;
+    padding: 0.75rem 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    box-shadow: 0 10px 24px rgba(130, 102, 255, 0.35);
+    transition: transform .08s ease, box-shadow .15s ease, background .2s ease;
+    cursor: pointer;
+}
+
+.fancy-file-btn:hover {
+    background: linear-gradient(135deg, #8d73ff 0%, #6f4bff 100%);
+    box-shadow: 0 14px 28px rgba(130, 102, 255, 0.45);
+    text-decoration: none;
+}
+
+.fancy-file-btn:active {
+    transform: translateY(1px);
+}
+
+.fancy-file-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.25rem rgba(130, 102, 255, 0.25);
+}
+
+.fancy-file-icon {
+    display: inline-block;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, .25));
+}
+
+.file-hint {
+    color: rgba(255, 255, 255, 0.75);
+    margin-top: .5rem;
+}
+
+/* Accessibility-friendly hide for the native input (if Bootstrap's .visually-hidden is unavailable) */
+.visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+    .new-card {
+        border-radius: 20px;
+    }
+
+    .new-title {
+        font-size: 1.9rem;
+    }
+}

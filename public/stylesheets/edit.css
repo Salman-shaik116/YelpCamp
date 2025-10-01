@@ -1,0 +1,187 @@
+/* Global */
+body {
+    background: #0f0d22;
+    /* single solid color */
+    color: #f5f5ff;
+    min-height: 100vh;
+}
+
+/* Wrapper */
+.edit-wrapper {
+    min-height: calc(100vh - 120px);
+    display: flex;
+    align-items: center;
+}
+
+/* Card with strong shadow around the form */
+.edit-card {
+    background: #1c1831;
+    border-radius: 26px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow:
+        0 12px 24px rgba(0, 0, 0, 0.35),
+        0 24px 60px rgba(0, 0, 0, 0.35);
+}
+
+/* Heading */
+.edit-title {
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0.04em;
+}
+
+.edit-subtitle {
+    font-size: 0.96rem;
+}
+
+/* Form */
+.edit-form .form-label {
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.edit-form .form-control,
+.edit-form .form-select {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: #f4f4ff;
+}
+
+.edit-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.edit-form .form-control:focus,
+.edit-form .form-select:focus {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: #8266ff;
+    box-shadow: 0 0 0 0.25rem rgba(130, 102, 255, 0.15);
+    color: #ffffff;
+}
+
+.edit-form .form-text,
+.edit-form .form-check-label {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+/* Buttons */
+.edit-form .btn-primary {
+    background: linear-gradient(135deg, #8266ff 0%, #6743ff 100%);
+    border: none;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.edit-form .btn-primary:hover {
+    background: linear-gradient(135deg, #8d73ff 0%, #6f4bff 100%);
+    box-shadow: 0 10px 25px rgba(130, 102, 255, 0.35);
+}
+
+.edit-form .btn-danger {
+    background: rgba(255, 88, 118, 0.9);
+    border: none;
+}
+
+.edit-form .btn-danger:hover {
+    background: rgba(255, 88, 118, 1);
+    box-shadow: 0 10px 25px rgba(255, 88, 118, 0.35);
+}
+
+/* Image grid */
+.edit-form .img-fluid {
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.form-check-input:checked {
+    background-color: #8266ff;
+    border-color: #8266ff;
+}
+
+/* Fancy file button */
+.fancy-file-btn {
+    background: linear-gradient(135deg, #8266ff 0%, #6743ff 100%);
+    color: #fff;
+    border: 0;
+    border-radius: 14px;
+    padding: 0.75rem 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    box-shadow: 0 10px 24px rgba(130, 102, 255, 0.35);
+    transition:
+        transform .08s ease,
+        box-shadow .15s ease,
+        background .2s ease;
+    cursor: pointer;
+}
+
+.fancy-file-btn:hover {
+    background: linear-gradient(135deg, #8d73ff 0%, #6f4bff 100%);
+    box-shadow: 0 14px 28px rgba(130, 102, 255, 0.45);
+    text-decoration: none;
+}
+
+.fancy-file-btn:active {
+    transform: translateY(1px);
+}
+
+.fancy-file-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.25rem rgba(130, 102, 255, 0.25);
+}
+
+.fancy-file-icon {
+    display: inline-block;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, .25));
+}
+
+.file-hint {
+    color: rgba(255, 255, 255, 0.75);
+    margin-top: .5rem;
+}
+
+/* Validation helpers (Bootstrap) */
+.was-validated .form-control:invalid,
+.form-control.is-invalid {
+    border-color: #ff6b7a;
+}
+
+.was-validated .form-control:invalid:focus,
+.form-control.is-invalid:focus {
+    box-shadow: 0 0 0 0.25rem rgba(255, 107, 122, 0.25);
+}
+
+.valid-feedback,
+.invalid-feedback {
+    color: #d1cfeb;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+    .edit-card {
+        border-radius: 20px;
+    }
+
+    .edit-title {
+        font-size: 1.9rem;
+    }
+}
+
+/* Accessibility-friendly hide for the native input (if Bootstrap's .visually-hidden is unavailable) */
+.visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}

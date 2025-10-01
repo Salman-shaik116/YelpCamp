@@ -1,0 +1,258 @@
+/* =========================================
+   THEME BASELINE
+========================================= */
+:root {
+    --bg-page: #0f0d22;
+    --text-page: #e9e9f7;
+    --card-bg: #ffffff;
+    --card-text: #111827;
+    --muted-text: #4b5563;
+    --meta-text: #6b7280;
+    --primary-1: #8266ff;
+    --primary-2: #6743ff;
+    --primary-3: #9d84ff;
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.15);
+    --shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.25);
+    --border-color: rgba(255, 255, 255, 0.1);
+    --border-hover: rgba(130, 102, 255, 0.3);
+    --gradient-primary: linear-gradient(135deg, var(--primary-1) 0%, var(--primary-2) 100%);
+    --gradient-hover: linear-gradient(135deg, var(--primary-3) 0%, #6f4bff 100%);
+    --gradient-title: linear-gradient(135deg, #a084e8, #7c5fe6);
+    --gutter-x: 1.5rem;
+}
+
+/* =========================================
+   BASE
+========================================= */
+body {
+    background: var(--bg-page);
+    color: var(--text-page);
+    font-family: "Inter", system-ui, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+/* =========================================
+   CLUSTER MAP
+========================================= */
+#cluster-map {
+    height: 450px;
+    border-radius: 20px;
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--border-color);
+    background: linear-gradient(135deg, #1e1a3a, #0f0d22);
+    margin-bottom: 3rem;
+    transition: box-shadow 0.3s ease;
+}
+
+#cluster-map:hover {
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.35);
+}
+
+/* =========================================
+   CARD GRID
+========================================= */
+.card-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--gutter-x);
+}
+
+.card-row>* {
+    flex: 1 1 calc(25% - var(--gutter-x));
+    min-width: 280px;
+    max-width: 340px;
+}
+
+/* =========================================
+   CAMP CARDS
+========================================= */
+.campground-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.3s ease;
+}
+
+.campground-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--border-hover);
+}
+
+/* Card Image */
+.campground-img-container {
+    position: relative;
+    height: 240px;
+    overflow: hidden;
+}
+
+.campground-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.campground-card:hover .campground-img-container img {
+    transform: scale(1.08);
+}
+
+.campground-img-container::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.25) 100%);
+}
+
+/* Badge */
+.campground-badge {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.campground-badge .badge {
+    background: var(--gradient-primary);
+    color: #fff;
+    font-weight: 600;
+    padding: 0.3rem 0.7rem;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    box-shadow: var(--shadow-sm);
+}
+
+/* Card Body */
+.campground-card .card-body {
+    padding: 1.25rem;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--card-text);
+}
+
+.card-text {
+    font-size: 0.95rem;
+    color: var(--muted-text);
+    margin-bottom: 0.75rem;
+}
+
+.text-secondary.small {
+    font-size: 0.85rem;
+    color: var(--meta-text) !important;
+}
+
+/* Price Badge */
+.price-badge {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    background: var(--gradient-primary);
+    color: #fff;
+    border-radius: 50px;
+    padding: 0.4rem 1rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    box-shadow: var(--shadow-md);
+}
+
+/* Buttons */
+.campground-card .btn-primary {
+    background: var(--gradient-primary);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50px;
+    padding: 0.6rem 1.25rem;
+    transition: all 0.2s ease;
+}
+
+.campground-card .btn-primary:hover {
+    background: var(--gradient-hover);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+/* =========================================
+   TITLES
+========================================= */
+.container .display-5 {
+    background: var(--gradient-title);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+/* 3 per row instead of 4 */
+.card-row>* {
+    flex: 1 1 calc(33.333% - var(--gutter-x));
+    max-width: calc(33.333% - var(--gutter-x));
+}
+
+/* Price badge - new teal gradient */
+.price-badge {
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: #fff;
+    border-radius: 50px;
+    padding: 0.5rem 1rem;
+    font-weight: 700;
+    font-size: 0.9rem;
+    box-shadow: var(--shadow-lg);
+}
+
+/* Primary button - modern blue/purple gradient */
+.campground-card .btn-primary {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50px;
+    padding: 0.75rem 1.5rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.campground-card .btn-primary:hover {
+    background: linear-gradient(135deg, #4f46e5, #7c3aed);
+    transform: translateY(-2px);
+}
+
+/* Location style - highlighted */
+.camp-location {
+    font-size: 1.1rem;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #0ea5e9;
+    /* bright blue */
+    margin-top: 0.5rem;
+    padding: 0.35rem 0.75rem;
+    background: rgba(14, 165, 233, 0.08);
+    /* soft blue background */
+    border-radius: 30px;
+    width: fit-content;
+}
+
+.camp-location i {
+    font-size: 1.1rem;
+    color: #0284c7;
+    /* deeper blue for icon */
+}

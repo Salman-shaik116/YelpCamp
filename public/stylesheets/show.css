@@ -1,0 +1,150 @@
+/* Show page styles aligned with index/new/edit themes */
+:root {
+    --bg-page: #0f0d22;
+    --card-bg: #ffffff;
+    --border-color: rgba(255, 255, 255, 0.08);
+    --primary-1: #8266ff;
+    --primary-2: #6743ff;
+    --primary-3: #8d73ff;
+    --shadow-sm: 0 6px 14px rgba(0, 0, 0, 0.12);
+    --shadow-lg: 0 18px 36px rgba(0, 0, 0, 0.35);
+    --gradient-title: linear-gradient(135deg, #a084e8, #7c5fe6);
+}
+
+body {
+    background: var(--bg-page);
+}
+
+/* Carousel */
+.camp-carousel {
+    box-shadow: var(--shadow-lg);
+}
+
+.camp-carousel .carousel-item img {
+    object-fit: cover;
+    height: 360px;
+}
+
+.price-badge {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: #fff;
+    border-radius: 9999px;
+    padding: 0.45rem 0.9rem;
+    font-weight: 700;
+    font-size: 0.9rem;
+    box-shadow: var(--shadow-lg);
+    z-index: 5;
+}
+
+/* Carousel controls visibility on dark bg */
+.camp-carousel .carousel-control-prev-icon,
+.camp-carousel .carousel-control-next-icon {
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, .45)) invert(1);
+}
+
+.camp-carousel .carousel-indicators [data-bs-target] {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Map */
+.camp-map {
+    height: 360px;
+    border-radius: 20px;
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+}
+
+/* Details card */
+.camp-show-card .card-body {
+    background: var(--card-bg);
+}
+
+.camp-show-card .card-title {
+    font-weight: 800;
+    letter-spacing: .02em;
+    background: var(--gradient-title);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.camp-show-card .card-text {
+    color: #4b5563;
+}
+
+.camp-show-card .list-group-item {
+    background: #fafafa;
+    border-color: rgba(0, 0, 0, 0.06);
+}
+
+.camp-location {
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    font-weight: 700;
+    color: #0ea5e9;
+    background: rgba(14, 165, 233, 0.08);
+    padding: .35rem .75rem;
+    border-radius: 9999px;
+}
+
+/* Review card */
+.review-card .card-body {
+    background: var(--card-bg);
+}
+
+.review-card .btn-primary {
+    background: linear-gradient(135deg, var(--primary-1), var(--primary-2));
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 9999px;
+}
+
+.review-card .btn-primary:hover {
+    background: linear-gradient(135deg, var(--primary-3), #6f4bff);
+}
+
+/* Small review items */
+.review-card+.review-card {
+    box-shadow: var(--shadow-sm);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 9999px;
+    padding: .6rem 1.2rem;
+}
+
+/* Minor layout helpers */
+.review-card .card-title {
+    font-weight: 700;
+}
+
+.review-card .card-text {
+    color: #4b5563;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+
+    .camp-carousel .carousel-item img,
+    .camp-map {
+        height: 320px;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .camp-carousel .carousel-item img,
+    .camp-map {
+        height: 260px;
+    }
+}
