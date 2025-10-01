@@ -1,63 +1,93 @@
-<% layout('layouts/boilerplate')%>
-<div class="row">
-    <h1 class="text-center">New Campground</h1>
-    <div class="col-6 offset-3">
-        <form action="/campgrounds" method="POST" novalidate class="validated-form" enctype="multipart/form-data">
-            <div class="mb-3">
-                <label class="form-label" for="title">Title</label>
-                <input class="form-control" type="text" id="title" name="campground[title]" required>
-                <div class="valid-feedback">
-                    Looks good!
-                </div>
-            </div>
-            <div class="mb-3">
-                <label class="form-label" for="location">Location</label>
-                <input class="form-control" type="text" id="location" name="campground[location]" required>
-                <div class="valid-feedback">
-                    Looks good!
-                </div>
-            </div>
+<% layout('layouts/boilerplate') %>
+    <% block('styles').append('<link rel="stylesheet" href="/stylesheets/new.css">') %>
 
-            <!-- <div class="mb-3">
-                <label class="form-label" for="image">Image Url</label>
-                <input class="form-control" type="text" id="image" name="campground[image]" required>
-                <div class="valid-feedback">
-                    Looks good!
-                </div>
-            </div> -->
-            <div class="mb-3">
-                <label class="form-label" for="price">Campground Price</label>
-                <div class="input-group">
-                    <span class="input-group-text" id="price-label">$</span>
-                    <input type="text" class="form-control" id="price" placeholder="0.00" aria-label="price"
-                        aria-describedby="price-label" name="campground[price]" required>
-                </div>
-                <div class="valid-feedback">
-                    Looks good!
-                </div>
-            </div>
+        <section class="new-wrapper py-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-8 col-lg-9">
+                        <div class="card new-card shadow-lg border-0">
+                            <div class="card-body p-4 p-md-5">
+                                <div
+                                    class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+                                    <div>
+                                        <h1 class="new-title mb-2">New Campground</h1>
+                                        <p class="new-subtitle mb-0 text-muted">Create a campground by filling the
+                                            details below.</p>
+                                    </div>
+                                    <a href="/campgrounds" class="btn btn-outline-light">&larr; All campgrounds</a>
+                                </div>
 
-            <div class="mb-3">
-                <label class="form-label" for="description">Description</label>
-                <textarea class="form-control" type="text" id="description" name="campground[description]"
-                    required></textarea>
-                <div class="valid-feedback">
-                    Looks good!
+                                <form action="/campgrounds" method="POST" enctype="multipart/form-data"
+                                    class="new-form validated-form" novalidate>
+                                    <div class="mb-3">
+                                        <label class="form-label" for="title">Title</label>
+                                        <input class="form-control" type="text" id="title" name="campground[title]"
+                                            required>
+                                        <div class="valid-feedback">Looks good!</div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label class="form-label" for="location">Location</label>
+                                        <input class="form-control" type="text" id="location"
+                                            name="campground[location]" required>
+                                        <div class="valid-feedback">Looks good!</div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label class="form-label" for="price">Campground Price</label>
+                                        <div class="input-group">
+                                            <span class="input-group-text" id="price-label">$</span>
+                                            <input type="text" class="form-control" id="price" placeholder="0.00"
+                                                aria-label="price" aria-describedby="price-label"
+                                                name="campground[price]" required>
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-4">
+                                        <label class="form-label" for="description">Description</label>
+                                        <textarea class="form-control" id="description" name="campground[description]"
+                                            rows="5" required></textarea>
+                                    </div>
+
+                                    <div class="mb-4">
+                                        <label class="form-label d-block">Add image(s)</label>
+                                        <!-- Hidden native input -->
+                                        <input type="file" id="images" name="image" class="visually-hidden" multiple>
+                                        <!-- Fancy trigger -->
+                                        <label for="images" class="btn fancy-file-btn">
+                                            <span class="fancy-file-icon" aria-hidden="true">⬆️</span>
+                                            Choose files
+                                        </label>
+                                        <div id="imagesHelp" class="form-text file-hint">No files selected.</div>
+                                    </div>
+
+                                    <div class="d-grid">
+                                        <button class="btn btn-primary" type="submit">Add Campground</button>
+                                    </div>
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="mb-3">
-                <div class="form-file custom-file">
-                    <input type="file" class="form-file-input" id="image" name="image" multiple>
-                    <label class="form-file-label" for="image">
-                        <span class="form-file-text custom-file-label">Choose image(s)...</span>
-                        <span class="form-file-button">Browse</span>
-                    </label>
-                </div>
-            </div>
-            <div class="mb-3">
-                <button class="btn btn-success">Add Campground</button>
-            </div>
-        </form>
-        <a href="/campgrounds">All Campgrounds</a>
-    </div>
-</div>
+        </section>
+
+        <script>
+            // Show selected filenames/count for the fancy file button
+            (function () {
+                const input = document.getElementById('images');
+                const hint = document.getElementById('imagesHelp');
+                if (input && hint) {
+                    input.addEventListener('change', () => {
+                        if (!input.files || input.files.length === 0) {
+                            hint.textContent = 'No files selected.';
+                        } else if (input.files.length === 1) {
+                            hint.textContent = input.files[0].name;
+                        } else {
+                            hint.textContent = `${input.files.length} files selected`;
+                        }
+                    });
+                }
+            })();
+        </script>
