@@ -38,3 +38,10 @@ module.exports.logout = (req, res, next) => {
         res.redirect('/campgrounds');
     });
 }
+module.exports.terms = (req, res) => {
+    res.render('users/terms', {
+        siteName: 'YelpCamp',
+        lastUpdated: '2025-01-01',
+        contactEmail: 'support@yelpcamp.com'
+    });
+};
