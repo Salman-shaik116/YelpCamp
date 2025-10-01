@@ -1,0 +1,100 @@
+<% layout('layouts/boilerplate')%>
+    <% block('styles').append('<link rel="stylesheet" href="/stylesheets/terms.css">') %>
+        <section class="terms-wrapper py-5">
+            <div class="container">
+                <div class="card shadow-lg border-0">
+                    <div class="card-body p-4 p-md-5">
+                        <div class="d-flex justify-content-between align-items-center mb-4">
+                            <h1 id="terms-heading" class="mb-0 fw-bold">Terms &amp; Conditions</h1>
+                            <span class="badge rounded-pill bg-primary text-uppercase px-3 py-2">Last updated:
+                                <%= lastUpdated || '2025-01-01' %>
+                            </span>
+                        </div>
+                        <p class="text-muted mb-4">Welcome to <strong>
+                                <%= siteName || 'YelpCamp' %>
+                            </strong>. These Terms govern your access
+                            to our website and services. By using the site you agree to be bound by them.</p>
+
+                        <div class="terms-section mb-4">
+                            <h2>1. Use of the Site</h2>
+                            <p>You may use the site for lawful, personal, and non-commercial purposes only. Prohibited
+                                activities include:</p>
+                            <ul>
+                                <li>Violating applicable laws;</li>
+                                <li>Interfering with site operations or security;</li>
+                                <li>Uploading malicious content or excessive automated access.</li>
+                            </ul>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>2. Accounts and Registration</h2>
+                            <p>You are responsible for safeguarding your account credentials and notifying us of
+                                unauthorized use.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>3. User Content</h2>
+                            <p>By posting content you grant us a non-exclusive, transferable, sublicensable,
+                                royalty-free license to use it
+                                for operating and promoting the service.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>4. Intellectual Property</h2>
+                            <p>All site design, text, images, code, and trademarks are protected. Except for your own
+                                content, do not reuse
+                                them without permission.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>5. Disclaimers</h2>
+                            <p>The site is provided “as is” without warranties. We do not guarantee accuracy,
+                                completeness, or uninterrupted
+                                service.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>6. Limitation of Liability</h2>
+                            <p>We are not liable for indirect or consequential damages. Direct damages are limited to
+                                the greater of $100
+                                or amounts paid in the prior 12 months.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>7. Indemnification</h2>
+                            <p>You agree to indemnify us against claims arising from your breach of these Terms or
+                                misuse of the site.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>8. Termination</h2>
+                            <p>We may suspend or terminate access for violations. Termination does not waive our right
+                                to other remedies.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>9. Changes to Terms</h2>
+                            <p>We may update these Terms. Changes take effect when posted; continued use means
+                                acceptance.</p>
+                        </div>
+
+                        <div class="terms-section mb-4">
+                            <h2>10. Governing Law</h2>
+                            <p>These Terms are governed by the laws of our operating jurisdiction, without regard to
+                                conflict-of-law rules.</p>
+                        </div>
+
+                        <footer class="terms-footer pt-4 border-top">
+                            <p class="mb-2">Questions? Contact us at
+                                <a href="mailto:<%= contactEmail || 'support@example.com' %>">
+                                    <%= contactEmail || 'support@example.com' %>
+                                </a>.
+                            </p>
+                            <a href="/" class="btn btn-outline-secondary btn-sm">
+                                &larr; Back to Home
+                            </a>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+        </section>
